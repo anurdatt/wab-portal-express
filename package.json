@@ -15,7 +15,11 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.17.1",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-auth0": "^1.4.3",
     "pug": "^3.0.0"
   }
 }
